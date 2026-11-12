@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"target": "es2022",
+		"module": "commonjs",
+		"strict": true,
+		"esModuleInterop": true,
+		"skipLibCheck": true,
+		"experimentalDecorators": true,
+		"forceConsistentCasingInFileNames": true,
+		"outDir": "dist"
+	},
+	"include": ["src/interfaces/lambdas/**/*.ts"]
+}
